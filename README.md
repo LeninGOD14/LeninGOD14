@@ -17,9 +17,7 @@
 🎓 Estudiante de Ingeniería en Sistemas en la **Universidad Central del Ecuador**. 💻 Enfocado en el desarrollo de aplicaciones web robustas.
 🚀 Actualmente trabajando en sistemas web para gestión de inventarios y servicios técnicos.
 
-🔥 **Proyectos actuales:** 
-
-- **Almacén El Mueble:** Sistema de gestión integral con Spring Boot.
+🔥 **Proyectos actuales:** - **Almacén El Mueble:** Sistema de gestión integral con Spring Boot.
 - **Tradiciones:** Gestión de alquileres y cierres de caja diarios.
 
 ---
@@ -43,15 +41,15 @@
 
 ### 🗄️ Databases & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql, sqlserver" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/NetBeans-#4679A4.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-%234679A4?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
 
 ---
@@ -67,8 +65,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xFrixonL&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFrixonL&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeninGOD14&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeninGOD14&layout=compact&theme=tokyonight" />
 </p>
 
 ---
