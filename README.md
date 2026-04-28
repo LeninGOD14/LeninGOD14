@@ -41,7 +41,7 @@
 
 ### 🗄️ Databases & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <img src="https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
