@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lenin Cabezas</h1>
-<h3 align="center">Systems Engineering Student | Backend & Data Enthusiast</h3>
+<h1 align="center">Hola 👋, Soy Lenin Cabezas</h1>
+<h3 align="center">Estudiante de Ingenieria de Sistemas de Informacion</h3>
+<h2 align="center">Entusiasta de Aplicaciones Web</h2>
 
 <p align="center">
   <a href="mailto:leninlul10@gmail.com">
@@ -11,21 +12,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mi
 
-🎓 Estudiante de Ingeniería en Sistemas en la **Universidad Central del Ecuador**. 💻 Enfocado en el desarrollo de aplicaciones web robustas y análisis de datos académicos.  
-🚀 Actualmente trabajando en sistemas ERP para gestión de inventarios y servicios técnicos.
+🎓 Estudiante de Ingeniería en Sistemas en la **Universidad Central del Ecuador**. 💻 Enfocado en el desarrollo de aplicaciones web robustas.
+🚀 Actualmente trabajando en sistemas web para gestión de inventarios y servicios técnicos.
 
-🔥 **Proyectos actuales:** - **Almacén El Mueble:** Sistema de gestión integral con Spring Boot.
+🔥 **Proyectos actuales:** 
+
+- **Almacén El Mueble:** Sistema de gestión integral con Spring Boot.
 - **Tradiciones:** Gestión de alquileres y cierres de caja diarios.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
-### 💻 Programming Languages
+### 💻 Lenguajes de Programacióm
 <p>
-  <img src="https://skillicons.dev/icons?i=java,r,maven" />
+  <img src="https://skillicons.dev/icons?i=java,python,r" />
 </p>
 
 ### ⚡ Frameworks & Backend
@@ -40,12 +43,15 @@
 
 ### 🗄️ Databases & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,render" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql, sqlserver" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,netbeans,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/NetBeans-#4679A4.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
 
 ---
@@ -73,4 +79,4 @@
 
 ---
 
-⭐ *“Code. Learn. Build. Improve.”*
+⭐ *“Life goes on.”* 🍀
