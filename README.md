@@ -65,8 +65,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeninGOD14&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeninGOD14&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeninGOD14&show_icons=true&theme=tokyonight&hide_border=false" alt="Lenin Cabezas Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeninGOD14&layout=compact&theme=tokyonight&hide=html,css,dockerfile" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeninGOD14&repo=almacen-el-mueble&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeninGOD14&repo=ProWorkAnalytics&theme=tokyonight" />
 </p>
 
 ---
