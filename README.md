@@ -43,14 +43,14 @@
 ### 🗄️ Databases & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-  <img src="https://img.shields.io/badge/NetBeans-116bfe?style=for-the-badge&logo=apache-netbeans&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/NetBeans-116bfe?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
 
 ---
