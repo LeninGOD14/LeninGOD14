@@ -49,7 +49,7 @@
 ### ⚙️ Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-  <img src="https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apache-netbeans&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/NetBeans-116bfe?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
 
 ---
