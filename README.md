@@ -48,7 +48,7 @@
 
 ### ⚙️ Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
   <img src="https://img.shields.io/badge/NetBeans-%234679A4?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
 
