@@ -49,9 +49,7 @@
 ### ⚙️ Tools & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-  <!-- Custom Badges for NetBeans & Eclipse -->
-  <img src="https://img.shields.io/badge/NetBeans-%234679A4?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apache-netbeans&logoColor=white" height="50" />
 </p>
 
 ---
