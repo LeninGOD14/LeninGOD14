@@ -23,9 +23,9 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### 💻 Lenguajes de Programación
+### 💻 Programming languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,r" />
 </p>
