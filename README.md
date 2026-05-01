@@ -15,7 +15,7 @@
 ## 👨‍💻 Sobre mi
 
 🎓 Estudiante de Ingeniería en Sistemas en la **Universidad Central del Ecuador**. 💻 Enfocado en el desarrollo de aplicaciones web robustas.
-🚀 Actualmente trabajando en sistemas web para gestión de inventarios y servicios técnicos.
+🚀 Actualmente trabajando en sistemas web para gestiones multiples en diferentes negocios de la ciudad de Cayambe.
 
 🔥 **Proyectos actuales:** 
 - **Almacén El Mueble:** Sistema de gestión integral con Spring Boot.
@@ -60,21 +60,6 @@
 - 📊 **Data Analysis:** Limpieza de datos y visualización con RStudio.
 - 🔄 **Conventional Commits:** Uso de estándares para un historial de Git organizado y profesional.
 - 🚀 **Deployment:** Gestión de bases de datos y aplicaciones en entornos de producción (Render).
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeninGOD14&show_icons=true&theme=tokyonight&hide_border=false" alt="Lenin Cabezas Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeninGOD14&layout=compact&theme=tokyonight&hide=html,css,dockerfile" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeninGOD14&repo=almacen-el-mueble&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeninGOD14&repo=ProWorkAnalytics&theme=tokyonight" />
-</p>
 
 ---
 
