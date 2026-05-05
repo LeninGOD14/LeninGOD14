@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Lenin Cabezas</h1>
 <h3 align="center">Information Systems Engineering Student</h3>
-<h2 align="center">Backend Developer | Web Applications Enthusiast</h2>
+<h2 align="center">Backend Developer | Building Pardos Systems 🚀</h2>
 
 <p align="center">
   <a href="mailto:leninlul10@gmail.com">
     <img src="https://img.shields.io/badge/Email-leninlul10%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
   <img src="https://img.shields.io/badge/Location-Ecuador-blue?style=for-the-badge&logo=google-maps&logoColor=white">
-  <img src="https://img.shields.io/badge/University-Central%20University%20of%20Ecuador-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/University-Universidad%20Central%20del%20Ecuador%20(UCE)-green?style=for-the-badge">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Information Systems Engineering student at the **Central University of Ecuador**.  
+🎓 Information Systems Engineering student at the **Universidad Central del Ecuador (UCE)**.  
 💻 Focused on building robust and scalable web applications.  
-🚀 Currently developing web systems for business management solutions in different local companies in Cayambe.
+🚀 Currently developing web-based systems for business management solutions for multiple local businesses in Cayambe.  
+
+🏢 **Building Pardos Systems:** Developing software solutions to improve operations for small and medium-sized businesses.
 
 🔥 **Current Projects:**  
-- **Almacén El Mueble:** Developed a full-stack inventory and sales management system using Spring Boot.  
-- **Tradiciones:** Built a rental management and daily cash closing system for business operations.
+- **Almacén El Mueble:** Developed a full-stack inventory and sales management system using Spring Boot, improving business operations and control.  
+- **Tradiciones:** Built a rental management and daily cash closing system, streamlining financial tracking and business workflows.
 
 ---
 
@@ -60,7 +62,7 @@
 
 - 🛠️ **Backend Development:** Building REST APIs and business logic using Spring Boot, Spring Data JPA, and Thymeleaf.  
 - 📊 **Data Analysis:** Data cleaning and visualization using RStudio.  
-- 🔄 **Version Control:** Applying Conventional Commits for clean and professional Git history.  
+- 🔄 **Version Control:** Applying Conventional Commits to maintain a clean and professional Git history.  
 - 🚀 **Deployment:** Managing databases and deploying applications in production environments (Render, Vercel).  
 
 ---
