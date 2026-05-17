@@ -35,7 +35,7 @@
 
 ### ⚡ Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,thymeleaf,flutter" />
 </p>
 
 ### 🌐 Web Development
