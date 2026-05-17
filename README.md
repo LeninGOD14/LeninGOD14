@@ -30,7 +30,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,r" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,r" />
 </p>
 
 ### ⚡ Frameworks & Backend
