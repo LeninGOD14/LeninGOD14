@@ -35,7 +35,8 @@
 
 ### ⚡ Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,thymeleaf,flutter" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,flutter" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F4B?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </p>
 
 ### 🌐 Web Development
