@@ -1,81 +1,60 @@
-<h1 align="center">Hi 👋, I'm Lenin Cabezas</h1>
-<h3 align="center">Information Systems Engineering Student</h3>
-<h2 align="center">Backend Developer | Building Pardos Systems 🚀</h2>
+<div align="center">
+  <!-- Efecto de texto dinámico -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=27F2A4&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+soy+Lenin+Cabezas;Estudiante+de+Ing.+en+Sistemas;Desarrollador+Backend;Construyendo+Pardos+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <a href="mailto:leninlul10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-leninlul10%40gmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Ecuador-blue?style=for-the-badge&logo=google-maps&logoColor=white">
-  <img src="https://img.shields.io/badge/University-Universidad%20Central%20del%20Ecuador%20(UCE)-green?style=for-the-badge">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Information Systems Engineering student at the **Universidad Central del Ecuador (UCE)**.  
-💻 Focused on building robust and scalable web applications.  
-🚀 Currently developing web-based systems for business management solutions for multiple local businesses in Cayambe.  
-
-🏢 **Building Pardos Systems:** Developing software solutions to improve operations for small and medium-sized businesses.
-
-🔥 **Current Projects:**  
-- **Almacén El Mueble:** Developed a full-stack inventory and sales management system using Spring Boot, improving business operations and control.  
-- **Tradiciones:** Built a rental management and daily cash closing system, streamlining financial tracking and business workflows.
+  <p align="center">
+    <a href="mailto:leninlul10@gmail.com">
+      <img src="https://img.shields.io/badge/Email-leninlul10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Cayambe%2C%20Ecuador-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Universidad-Central%20del%20Ecuador%20(UCE)-157A36?style=for-the-badge" alt="University" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Sobre Mí
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,dart,r" />
-</p>
+Soy estudiante de **Ingeniería en Sistemas de Información** enfocado en construir aplicaciones web robustas y escalables. Me dedico a resolver problemas operativos reales para negocios locales a través de la tecnología.
 
-### ⚡ Frameworks & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,flutter" />
-  <img src="https://img.shields.io/badge/Thymeleaf-005F4B?style=for-the-badge&logo=thymeleaf&logoColor=white" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### 🚀 Deployment
-<p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-  <img src="https://img.shields.io/badge/NetBeans-116bfe?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-</p>
+- 🏢 **Fundador de Pardos Systems:** Desarrollando soluciones de software de gestión, ERP y POS para potenciar a las pymes.
+- 💻 **Enfoque Técnico:** Arquitectura Backend, bases de datos relacionales, Clean Code (uso estricto de Conventional Commits) y despliegues en la nube.
+- 🌱 **Actualmente explorando:** Integración de IA (RAG) en aplicaciones Spring Boot, diseño de interfaces y arquitecturas self-hosted.
 
 ---
 
-## 🔬 Specialized Skills
+## 🚀 Proyectos Destacados
 
-- 🛠️ **Backend Development:** Building REST APIs and business logic using Spring Boot, Spring Data JPA, and Thymeleaf.  
-- 📊 **Data Analysis:** Data cleaning and visualization using RStudio.  
-- 🔄 **Version Control:** Applying Conventional Commits to maintain a clean and professional Git history.  
-- 🚀 **Deployment:** Managing databases and deploying applications in production environments (Render, Vercel).  
-
----
-
-## 📫 Contact
-
-- 📧 **leninlul10@gmail.com**
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| 🏢 **Almacenes El Mueble** | Sistema ERP web full-stack en producción. Incluye control de inventario, ventas, gestión de crédito directo, reportería y control de turnos. | `Spring Boot` `Java 17` `PostgreSQL` `Docker` `Render` `Cloudinary` |
+| 🎭 **Tradiciones** | Aplicación web para la gestión integral de alquiler de trajes y ropa, optimizando el seguimiento financiero y cierres de caja diarios. | `Spring Boot` `Java` `PostgreSQL` `Thymeleaf` |
 
 ---
 
-⭐ *“Life goes on.”* 🍀
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,r,dart&perline=12" alt="Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql&perline=12" alt="Backend & DB" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flutter&perline=12" alt="Frontend" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,render,vercel&perline=12" alt="Tools & Deployment" />
+</div>
+
+---
+
+## 📊 Mis Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeninGOD14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=27F2A4" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeninGOD14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=27F2A4" height="165" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Life goes on."</i> 🍀
+</div>
