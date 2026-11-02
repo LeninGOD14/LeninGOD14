@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Email-leninlul10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Cayambe%2C%20Ecuador-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Universidad-Central%20del%20Ecuador%20(UCE)-157A36?style=for-the-badge" alt="University" />
+    <img src="https://img.shields.io/badge/Universidad-Central_del_Ecuador-157A36?style=for-the-badge" alt="University" />
   </p>
 </div>
 
@@ -41,7 +41,10 @@ Soy estudiante de **Ingeniería en Sistemas de Información** enfocado en constr
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,flutter&perline=12" alt="Frontend" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,render,vercel&perline=12" alt="Tools & Deployment" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea&perline=12" alt="Tools" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
 ---
@@ -49,8 +52,8 @@ Soy estudiante de **Ingeniería en Sistemas de Información** enfocado en constr
 ## 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeninGOD14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=27F2A4" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeninGOD14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=27F2A4" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeninGOD14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeninGOD14&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
