@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0b7a5a&height=190&section=header&text=Lenin%20Cabezas&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Java%20%26%20Spring%20Boot&descSize=17&descAlignY=60&descColor=27F2A4" alt="Lenin Cabezas, desarrollador backend Java y Spring Boot" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0b7a5a&height=190&section=header&text=Lenin%20Cabezas&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20PostgreSQL&descSize=17&descAlignY=60&descColor=27F2A4" alt="Lenin Cabezas, desarrollador backend Java y Spring Boot" width="100%" />
 
 ### ¡Qué más! 👋 Me gusta modernizar negocios con software que de verdad se usa
 
@@ -24,7 +24,7 @@
 > **🟢 Disponible desde ya** para prácticas, posiciones junior (backend / full-stack) y proyectos freelance, en Ecuador o en remoto.
 
 <details>
-<summary><b>🇬🇧 English summary</b></summary>
+<summary><b>🌐 English summary</b></summary>
 
 <br>
 
@@ -84,7 +84,7 @@ Roles con Spring Security, contraseñas con BCrypt, protección CSRF y Cloudflar
 <td width="50%" valign="top">
 
 **🧩 CMS a la medida**<br>
-Sitios cuyo contenido el dueño edita desde un panel, sin tocar código.
+Sitios cuyo contenido el propio negocio edita desde un panel, sin tocar código.
 
 </td>
 <td width="50%" valign="top">
@@ -120,19 +120,22 @@ Una sola aplicación Spring Boot que reúne dos sistemas para un almacén real d
 🔗 [Ver el sitio en producción](https://almaceneselmueble.com)
 
 > [!NOTE]
-> El código es privado porque es un proyecto de cliente. Con gusto lo muestro y lo explico en una entrevista técnica.
+> El código es privado porque pertenece a un negocio real. Con gusto lo muestro y lo explico en una entrevista técnica.
 
 ### 🎭 Tradiciones: seguimiento de alquileres y finanzas
 
-Sistema para que el propietario de un negocio de alquiler de trajes y ropa no pierda el control de sus alquileres ni de sus finanzas, con cierres de caja diarios.
+Sistema para que el propietario de un negocio de alquiler de trajes y ropa no pierda el seguimiento de sus alquileres ni de sus finanzas, con cierres de caja diarios.
+
+> [!NOTE]
+> Está en **fase de pruebas**: el propietario lo está probando mientras yo afino los últimos detalles, así que todavía no está en producción.
 
 `Java` `Spring Boot` `PostgreSQL` `Thymeleaf` `Render`
 
-🔗 [Ver la aplicación en línea](https://local-tradiciones.onrender.com) · abre directo en el login: escríbeme y te comparto un acceso de demostración.
+🔗 [Ver la versión de pruebas](https://local-tradiciones.onrender.com) · abre directo en el login: escríbeme y te comparto un acceso de demostración.
 
 ### 🧭 Pardos Systems (en camino)
 
-Es la marca con la que quiero ofrecer soluciones de software y **digitalizar negocios**. Por ahora trabajo solo y su sitio web está en construcción: ahí vas a ver los negocios con los que he trabajado y sus proyectos. Mientras tanto, los dos de arriba son mi portafolio.
+Es la marca con la que quiero ofrecer soluciones de software y **digitalizar negocios**. Por ahora trabajo solo y todavía no tiene sitio web; cuando lo arme, ahí vas a ver los negocios con los que he trabajado y sus proyectos. Mientras tanto, los dos de arriba son mi portafolio.
 
 <!-- Opcional: sube capturas de pantalla a una carpeta /assets del repo y descomenta esto
 <p align="center">
@@ -168,7 +171,7 @@ Es la marca con la que quiero ofrecer soluciones de software y **digitalizar neg
 - ✍️ Código limpio y commits con **Conventional Commits**
 - 📚 Documento lo que construyo: arquitectura, modelo de datos, variables de entorno y despliegue
 - 🔍 Reviso mi propio código y mantengo una lista priorizada de pendientes, con la seguridad en lo más alto
-- 🔑 Las credenciales nunca viajan en el repositorio: van en variables de entorno
+- 🔑 Las credenciales reales van en variables de entorno, no en el repositorio
 
 ---
 
