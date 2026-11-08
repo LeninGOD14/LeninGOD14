@@ -70,7 +70,7 @@ PostgreSQL y modelado relacional. He corregido varios esquemas mal diseñados de
 <td width="50%" valign="top">
 
 **☁️ Despliegue**<br>
-Docker y Render, secretos en variables de entorno y archivos en Cloudinary para que el servidor no guarde estado.
+Docker y Render, y archivos en Cloudinary para que el servidor no guarde estado.
 
 </td>
 <td width="50%" valign="top">
@@ -163,15 +163,6 @@ Es la marca con la que quiero ofrecer soluciones de software y **digitalizar neg
 **También he practicado:** Python · R · Dart / Flutter · MySQL
 
 **Aprendiendo ahora:** IA con RAG en aplicaciones Spring Boot · diseño de interfaces · arquitecturas self-hosted · inglés
-
----
-
-## 🧰 Cómo trabajo
-
-- ✍️ Código limpio y commits con **Conventional Commits**
-- 📚 Documento lo que construyo: arquitectura, modelo de datos, variables de entorno y despliegue
-- 🔍 Reviso mi propio código y mantengo una lista priorizada de pendientes, con la seguridad en lo más alto
-- 🔑 Las credenciales reales van en variables de entorno, no en el repositorio
 
 ---
 
